@@ -1,0 +1,12 @@
+{
+    "uid": 7194629001,
+    "source_node": 765386099,
+    "dest_node": 847266482,
+    "link_type": "E_implies_E",
+    "bibtex_ref": "@article{DBLP:journals/jacm/GoldreichGM86, \n author = {Oded Goldreich and Shafi Goldwasser and Silvio Micali},\n title     = {How to construct random functions},\n journal   = {J. {ACM}},\n volume    = {33}, \n number = {4},\n pages = {792--807},\n year      = {1986}}"
+    "page_number": "Theorem 3",
+    "url": "http://doi.acm.org/10.1145/6490.6503",
+    "long_description": "If pseudorandom generators exist, then pseudorandom functions exist.",
+    "submitter": "wildstrawberry",
+    "date_last_checked": "2018-05-27"
+}
