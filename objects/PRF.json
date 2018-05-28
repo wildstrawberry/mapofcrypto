@@ -1,0 +1,11 @@
+{
+    "uid": 847266482,
+    "display_name": "PRF",
+    "full_name": "pseudorandom function",
+    "bibtex_ref": "@article{DBLP:journals/jacm/GoldreichGM86, \n author = {Oded Goldreich and Shafi Goldwasser and Silvio Micali},\n title     = {How to construct random functions},\n journal   = {J. {ACM}},\n volume    = {33}, \n number = {4},\n pages = {792--807},\n year      = {1986}}"
+    "url": "http://doi.acm.org/10.1145/6490.6503",
+    "page_number": "Section 3.1",
+    "long_description": "A function family F is called pseudorandom if for any p.p.t. adversary, a random function from the family is indistinguishable from a truly random function.",
+    "submitter": "wildstrawberry",
+    "date_last_checked": "2018-05-27"
+}
